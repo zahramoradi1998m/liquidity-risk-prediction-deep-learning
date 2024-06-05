@@ -1,6 +1,6 @@
 # Predicting Life Insurance Liquidity Risk
 
-This project aims to predict the liquidity risk of life insurance using deep learning algorithms: CNN, MLP, LSTM, and RNN. The predictions are made for both insurance sales and claims data from [1397] to [1399] (Gregorian Calendar or 2018 to 2023) . The liquidity risk is calculated by dividing the sales amounts by the claims amounts.
+This project aims to predict the liquidity risk of life insurance using deep learning algorithms: CNN, MLP, LSTM, and RNN. The predictions are made for both insurance sales and claims data from [1397] to [1399] (Gregorian Calendar) or 2018 to 2023. The liquidity risk is calculated by dividing the sales amounts by the claims amounts.
 
 ## Table of Contents
 
@@ -21,8 +21,8 @@ This project focuses on predicting the liquidity risk of life insurance using va
 
 The data used in this project includes:
 
-- **Sales Data**: Insurance sales data from [start date] to [end date].
-- **Claims Data**: Insurance claims data from [start date] to [end date].
+- **Sales Data**: Insurance sales data from [1397] to [1399] (Gregorian Calendar) or 2018 to 2023.
+- **Claims Data**: Insurance claims data from [1397] to [1399] (Gregorian Calendar) or 2018 to 2023.
 
 ### Sample Data
 
