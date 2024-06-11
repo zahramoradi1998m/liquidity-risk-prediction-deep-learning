@@ -29,7 +29,7 @@ The data used in this project includes:
 Here are the first ten rows of the sales and claims data:
 
 #### Sales Data
-![image](https://github.com/zahramoradi1998m/liquidity-risk-prediction-deep-learning/assets/83967695/28afea14-3cd8-43e9-8785-0f2d0b9eb678)
+![image](https://github.com/zahramoradi1998m/liquidity-risk-prediction-deep-learning/assets/83967695/97090253-b18a-4a24-845a-5d212fe1af57)
 
 #### Claims Data
 ![image](https://github.com/zahramoradi1998m/liquidity-risk-prediction-deep-learning/assets/83967695/a2c40058-1d2d-447c-943c-204f77b0f946)
